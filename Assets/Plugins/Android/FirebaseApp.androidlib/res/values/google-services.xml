@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">680579989548</string>
+  <string name="google_storage_bucket" translatable="false">ship-cargo-sim.appspot.com</string>
+  <string name="project_id" translatable="false">ship-cargo-sim</string>
+  <string name="google_api_key" translatable="false">AIzaSyAgcRZOsbEueztId1F6e76z_euw9P1eSeU</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAgcRZOsbEueztId1F6e76z_euw9P1eSeU</string>
+  <string name="google_app_id" translatable="false">1:680579989548:android:f309943af7837d703b9189</string>
+  <string name="default_web_client_id" translatable="false">680579989548-mbjovrofk94r8rbhqog6vmej6ig9gim6.apps.googleusercontent.com</string>
+</resources>

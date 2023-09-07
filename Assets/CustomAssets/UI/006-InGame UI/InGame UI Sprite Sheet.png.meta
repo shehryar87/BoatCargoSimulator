@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: ce8bbb44f78063e4bb6da6cbca5b27f3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 53
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InGame UI Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 735
+        width: 265
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f81f60509a81642bc65772ccdf53be
+      internalID: 349914269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame UI Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 636
+        width: 350
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037bb97f36674d843bfa08f9361c83c5
+      internalID: 543621015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame UI Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 454
+        width: 12
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b416e8b51dcb4e14f8da66701e27c397
+      internalID: 771918228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame UI Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 420
+        width: 89
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc63a74ba5d7451479d28fb1113f5e03
+      internalID: -1846516769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame UI Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 636
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b704a43b154ae40b13c2b755b0f3c4
+      internalID: -1308561323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame UI Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 638
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5443f7ba208b9204f8c7d78318af2435
+      internalID: 1515728777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame UI Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 396
+        width: 327
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09e82362047de144b57ddccbbe429fb
+      internalID: -528954174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame UI Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 384
+        width: 334
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff75cd15fdbc3c4c87098f2cf178425
+      internalID: 964296643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame UI Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 27
+        width: 355
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ada0e9cb5d3534ab848176a6c0e984
+      internalID: -1726809648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame UI Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 260
+        width: 346
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201485a194cf78b4d8a35a43aeb186fd
+      internalID: 649477144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame UI Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 58
+        width: 107
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d55030ab3d88d34499c7991d1392627
+      internalID: 1801370850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame UI Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 36
+        width: 159
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc63de0084efe814a8e22b3889a009a9
+      internalID: 2090781411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame UI Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 36
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797014aff8c6d8d48933b5e68e0cb008
+      internalID: 877796532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7ff524894dd05df4abd32cac850fd3da
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      InGame UI Sprite Sheet_0: 349914269
+      InGame UI Sprite Sheet_1: 543621015
+      InGame UI Sprite Sheet_10: -528954174
+      InGame UI Sprite Sheet_11: 964296643
+      InGame UI Sprite Sheet_12: -1726809648
+      InGame UI Sprite Sheet_13: 649477144
+      InGame UI Sprite Sheet_14: -2128741091
+      InGame UI Sprite Sheet_15: 760196421
+      InGame UI Sprite Sheet_16: -1695710475
+      InGame UI Sprite Sheet_17: -881722136
+      InGame UI Sprite Sheet_18: 1801370850
+      InGame UI Sprite Sheet_19: -1295327736
+      InGame UI Sprite Sheet_2: 771918228
+      InGame UI Sprite Sheet_20: -2022937649
+      InGame UI Sprite Sheet_21: 1797245859
+      InGame UI Sprite Sheet_22: 2090781411
+      InGame UI Sprite Sheet_23: -581303523
+      InGame UI Sprite Sheet_24: -1577797640
+      InGame UI Sprite Sheet_25: 1338877442
+      InGame UI Sprite Sheet_26: -1716812640
+      InGame UI Sprite Sheet_27: 877796532
+      InGame UI Sprite Sheet_28: -1652884488
+      InGame UI Sprite Sheet_29: -837786942
+      InGame UI Sprite Sheet_3: -1846516769
+      InGame UI Sprite Sheet_30: -194002913
+      InGame UI Sprite Sheet_31: -2075329602
+      InGame UI Sprite Sheet_32: 2063774493
+      InGame UI Sprite Sheet_33: -1483971261
+      InGame UI Sprite Sheet_34: 2139363835
+      InGame UI Sprite Sheet_35: -2009120982
+      InGame UI Sprite Sheet_36: -883728775
+      InGame UI Sprite Sheet_37: -1692695587
+      InGame UI Sprite Sheet_38: 1398719276
+      InGame UI Sprite Sheet_39: -402322592
+      InGame UI Sprite Sheet_4: -571508457
+      InGame UI Sprite Sheet_40: 626716460
+      InGame UI Sprite Sheet_41: -691216258
+      InGame UI Sprite Sheet_5: -1308561323
+      InGame UI Sprite Sheet_6: 1515728777
+      InGame UI Sprite Sheet_7: 1613278775
+      InGame UI Sprite Sheet_8: 1088262077
+      InGame UI Sprite Sheet_9: 994669103
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

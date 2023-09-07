@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "680579989548",
+    "project_id": "ship-cargo-sim",
+    "storage_bucket": "ship-cargo-sim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680579989548:android:f309943af7837d703b9189",
+        "android_client_info": {
+          "package_name": "com.ig.boat.cargo.transport.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680579989548-mbjovrofk94r8rbhqog6vmej6ig9gim6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgcRZOsbEueztId1F6e76z_euw9P1eSeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680579989548-mbjovrofk94r8rbhqog6vmej6ig9gim6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5585447852902267~5952920514"
+    }
+  ],
+  "configuration_version": "1"
+}
